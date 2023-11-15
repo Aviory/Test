@@ -51,7 +51,7 @@ public class Monster extends JPanel {
             e.printStackTrace();
         }
     }
-
+///gfasgag
     class IdleAnimation extends Thread{
         @Override
         public void run() {
